@@ -7,6 +7,7 @@ voice control, self driving car using raspberry pi
 
 ## Self Driving AI
 - original picture
+- [img]https://i.imgur.com/RDtfiUl.png[/img]
   ![Orignial Picture](https://imgur.com/RDtfiUl)
 - masked lanes
   ![Masked Picture](https://imgur.com/hYQteWN)
